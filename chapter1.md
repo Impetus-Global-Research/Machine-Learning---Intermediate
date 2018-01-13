@@ -1,7 +1,7 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
-attachments :
+title       : What is Machine Learning?
+description : This chapter will answer what machine learning is, the main problems, and use cases.
+attachments : 
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 ---
