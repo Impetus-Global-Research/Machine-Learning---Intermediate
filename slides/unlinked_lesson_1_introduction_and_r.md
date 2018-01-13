@@ -4,7 +4,7 @@ key: d77ddf379c7ec3660d27163d40853b0e
 
 
 ---
-## Lesson 1-Introduction and R
+## Lesson 1 - Introduction To Machine Learning And R
 
 ```yaml
 type: TitleSlide
