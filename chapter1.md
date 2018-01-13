@@ -14,6 +14,8 @@ skills: 2
 video_link: player.vimeo.com/video/154783078
 ```
 
+`@projector_key`
+d77ddf379c7ec3660d27163d40853b0e
 
 ---
 ## A quick overview of the types of AI!

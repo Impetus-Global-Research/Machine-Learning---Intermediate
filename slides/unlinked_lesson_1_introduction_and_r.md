@@ -26,8 +26,10 @@ key: f9f9dc69ae
 ```
 
 `@part1`
+* hello world
 
 `@script`
+
 
 ---
 ## Let's practice!
