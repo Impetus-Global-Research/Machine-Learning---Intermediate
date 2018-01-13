@@ -3,7 +3,20 @@ title       : What is Machine Learning?
 description : This chapter will answer what machine learning is, the main problems, and use cases.
 slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 ---
-## A really bad movie
+## "Isnt AI just AI??"
+
+```yaml
+type: VideoExercise
+key: a131e54adb
+lang: r
+xp: 50
+skills: 2
+video_link: player.vimeo.com/video/154783078
+```
+
+
+---
+## A quick overview of the types of AI!
 
 ```yaml
 type: MultipleChoiceExercise
@@ -13,16 +26,16 @@ skills: 1
 key: 5f35a791ae
 ```
 
-Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
+Have a look at the plot of industries, that showed up in the viewer to the right. Which industry has the lowest scoring applicant?
 
 `@instructions`
-- Adventure
-- Action
-- Animation
-- Comedy
+- Construction
+- Film Production
+- Information Technology
+- Government
 
 `@hint`
-Have a look at the plot. Which color does the point with the lowest rating have?
+Have a look at the plot, which color does the point with the lowest rating have?
 
 `@pre_exercise_code`
 ```{r}
@@ -44,6 +57,8 @@ msg_bad <- "That is not correct!"
 msg_success <- "Exactly! There seems to be a very bad action movie in the dataset."
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
+
+
 
 ---
 ## More movies

@@ -4,7 +4,7 @@ key: d77ddf379c7ec3660d27163d40853b0e
 
 
 ---
-## Lesson 1 - Introduction To Machine Learning And R
+## Lesson 1 - Introduction to Machine Learning and R
 
 ```yaml
 type: TitleSlide
@@ -17,7 +17,17 @@ title: CEO Impetus Global Technology
 
 `@script`
 
+---
+## "Isn't AI just AI?"
 
+```yaml
+type: FullSlide
+key: f9f9dc69ae
+```
+
+`@part1`
+
+`@script`
 
 ---
 ## Let's practice!
