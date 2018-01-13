@@ -12,8 +12,8 @@ key: '188158e617'
 ```
 
 `@lower_third`
-name: Firstname Lastname
-title: Instructor
+name: Chaplin Marchais
+title: CEO Impetus Global Technology
 
 `@script`
 
